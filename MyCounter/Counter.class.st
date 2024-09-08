@@ -53,7 +53,7 @@ Counter >> increment [
 
 { #category : 'initialization' }
 Counter >> initialize [ 
-
+	"initialize counter to 0"
 	count:= 0
 ]
 
